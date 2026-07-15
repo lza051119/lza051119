@@ -50,7 +50,7 @@ I am interested in building and evaluating secure, trustworthy AI agent systems.
 ## Contact
 
 - **OpenReview email:** `liangzian1119 [at] gmail.com`
-- **Institutional email:** `2liangzian [at] bupt.edu.cn`
+- **Institutional email:** `liangzian [at] bupt.edu.cn`
 - **GitHub:** [github.com/lza051119](https://github.com/lza051119)
 
 ---
